@@ -1,6 +1,6 @@
 <?php
 /**
- * @package hello_word
+ * @package hello_word_two
  * @version 1.6
  */
 /*
