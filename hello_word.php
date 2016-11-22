@@ -1,9 +1,5 @@
 <?php
 /**
- * @package hello-word-two
- * @version 1.6
- */
-/*
 
 Plugin Name: Hello word
 Description:  Hello word
