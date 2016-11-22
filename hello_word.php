@@ -4,7 +4,7 @@
 Plugin Name: Hello word
 Description:  Hello word
 Author: Qasim riaz
-Version: 1.6
+Version: 1.7
 
 
 */
