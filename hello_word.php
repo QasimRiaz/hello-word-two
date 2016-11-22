@@ -1,10 +1,12 @@
 <?php
 /**
-
+ * @package hello_word_two
+ * @version 2.0
+ 
 Plugin Name: Hello word
 Description:  Hello word
 Author: Qasim riaz
-Version: 1.7
+Version: 2.0
 
 
 */
