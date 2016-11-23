@@ -13,7 +13,7 @@
  * Plugin Name:       Hello Word
  * Plugin URI:        https://github.com/QasimRiaz/hello-word-two
  * Description:       A plugin to automatically update GitHub.
- * Version:           2.0
+ * Version:           2.1
  * Author:            Qasim Riaz
  * License:           GNU General Public License v2
  * Text Domain:       hello-word-two
