@@ -5,7 +5,7 @@
  *
  * @package   Hello_Word_Two
  * @author    Qasim Riaz
- * @version   2.5
+ * @version   2.6
  * @license   GPL-2.0+
  * @link      https://github.com/QasimRiaz/hello-word-two
  */
@@ -14,7 +14,7 @@
  * Plugin Name:       Hello Word
  * Plugin URI:        https://github.com/QasimRiaz/hello-word-two
  * Description:       A plugin to automatically update GitHub 2.5.
- * Version:           2.5
+ * Version:           2.6
  * Author:            Qasim Riaz
  * License:           GNU General Public License v2
  * Text Domain:       hello-word-two
