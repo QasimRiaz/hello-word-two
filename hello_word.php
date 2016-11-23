@@ -5,6 +5,7 @@
  *
  * @package   Hello_Word_Two
  * @author    Qasim Riaz
+ * @version   2.1
  * @license   GPL-2.0+
  * @link      https://github.com/QasimRiaz/hello-word-two
  */
